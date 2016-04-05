@@ -10,3 +10,4 @@ The "I" of which I speak is me, [Dan Sumption](http://sumption.org).
  * [JavaScript](javascript.md)
  * [General software development concepts](programming.md) (including Functional Programming)
  * [Git](git.md)
+ * [Agile & Project Management](agile.md)
