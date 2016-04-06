@@ -1,6 +1,7 @@
 # All I know about JavaScript
 
 ## Learning ##
+ * Douglas Crockford's Yahoo lectures on JavaScript: [Part 1: The JavaScript Programming Language](https://www.youtube.com/watch?v=v2ifWcnQs6M), [Part 2: An Inconvenient API - The Theory of the DOM](https://www.youtube.com/watch?v=Y2Y0U-2qJMs) and [Part 3: Advanced JavaScript](https://www.youtube.com/watch?v=DwYPG6vreJg) - slightly dated (from 2007) but still incredibly relevant lectures.
  * [Learn JavaScript: The best methods and resources according to 25 JavaScript experts](https://psdtowp.net/learn-javascript.html) :new:
  * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) Series of JavaScript books
  * [Simplified JavaScript Jargon](https://github.com/HugoGiraudel/SJSJ)
