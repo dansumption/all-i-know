@@ -12,3 +12,4 @@ The "I" of which I speak is me, [Dan Sumption](http://sumption.org).
  * [Git](git.md)
  * [Agile & Project Management](agile.md)
  * [UX](ux.md)
+ * [Other tech](tech.md)
