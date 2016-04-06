@@ -24,3 +24,6 @@
 ## 3D ##
  * [Building a 3D engine with JavaScript](http://www.sitepoint.com/building-3d-engine-javascript/) :new:
  * [Vizcities](https://github.com/vizicities/vizicities) 3D city and data visualisation platform :new:
+
+## Transpilers ##
+ * [All JS Libraries should be authored in TypeScript](http://staltz.com/all-js-libraries-should-be-authored-in-typescript.html)
