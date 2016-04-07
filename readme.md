@@ -8,6 +8,7 @@ The "I" of which I speak is me, [Dan Sumption](http://sumption.org).
 
 ## Topics
  * [JavaScript](javascript.md)
+ * [Ruby on Rails](ruby.md)
  * [General software development concepts](programming.md) (including Functional Programming)
  * [Git](git.md)
  * [Agile & Project Management](agile.md)
