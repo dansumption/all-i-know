@@ -6,11 +6,18 @@
  * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) Series of JavaScript books
  * [Simplified JavaScript Jargon](https://github.com/HugoGiraudel/SJSJ)
 
+## ES6/2015/Next
+ * [EcmaScript 6 - new features and comparisons](http://es6-features.org/) :new:
+
+## Async/Promises/Reactive Programming
+ * [Promises cookbook](https://github.com/mattdesl/promise-cookbook)
+
 ## Functional JavaScript ##
  * [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504) :new:
  * [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/2016/03/23/intro-to-immutable-js/) :new:
 
 ## React / Redux ##
+ * [React cheat sheet](http://reactcheatsheet.com/)
  * [Levelling up with React](https://css-tricks.com/learning-react-router/) - Three part series covering React Router, Container Components and Redux. :new:
  * [Server-side rendering with React, Node and Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/) :new:
  * [Getting started with React, Redux and Immutable](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/) A test-driven tutorial :new:
