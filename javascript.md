@@ -6,6 +6,9 @@
  * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) Series of JavaScript books
  * [Simplified JavaScript Jargon](https://github.com/HugoGiraudel/SJSJ)
 
+## Testing
+ * [Why I use Tape instead of Mocha and so should you](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
+
 ## ES6/2015/Next
  * [EcmaScript 6 - new features and comparisons](http://es6-features.org/) :new:
 
