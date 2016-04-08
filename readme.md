@@ -14,3 +14,6 @@ The "I" of which I speak is me, [Dan Sumption](http://sumption.org).
  * [Agile & Project Management](agile.md)
  * [UX](ux.md)
  * [Other tech](tech.md)
+
+## To read
+ * [The Urban Technologist - Smart Cities](http://theurbantechnologist.com/) :new:
