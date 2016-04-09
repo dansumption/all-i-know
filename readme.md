@@ -8,8 +8,12 @@ The "I" of which I speak is me, [Dan Sumption](http://sumption.org).
 
 ## Topics
  * [JavaScript](javascript.md)
+ * [Ruby on Rails](ruby.md)
  * [General software development concepts](programming.md) (including Functional Programming)
  * [Git](git.md)
  * [Agile & Project Management](agile.md)
  * [UX](ux.md)
  * [Other tech](tech.md)
+
+## To read
+ * [The Urban Technologist - Smart Cities](http://theurbantechnologist.com/) :new:

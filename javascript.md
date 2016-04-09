@@ -7,11 +7,21 @@
  * [Simplified JavaScript Jargon](https://github.com/HugoGiraudel/SJSJ)
  * Eric Elliot's The Two Pillars of JavaScript: [Part 1: Prototypal Inheritance](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.2oaw14lc5) and [Part 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.6eui0zlbh)
 
+## Testing
+ * [Why I use Tape instead of Mocha and so should you](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
+
+## ES6/2015/Next
+ * [EcmaScript 6 - new features and comparisons](http://es6-features.org/) :new:
+
+## Async/Promises/Reactive Programming
+ * [Promises cookbook](https://github.com/mattdesl/promise-cookbook)
+
 ## Functional JavaScript ##
  * [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504) :new:
  * [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/2016/03/23/intro-to-immutable-js/) :new:
 
 ## React / Redux ##
+ * [React cheat sheet](http://reactcheatsheet.com/)
  * [Levelling up with React](https://css-tricks.com/learning-react-router/) - Three part series covering React Router, Container Components and Redux. :new:
  * [Server-side rendering with React, Node and Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/) :new:
  * [Getting started with React, Redux and Immutable](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/) A test-driven tutorial :new:
