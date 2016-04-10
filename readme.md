@@ -12,6 +12,7 @@ The "I" of which I speak is me, [Dan Sumption](http://sumption.org).
  * [General software development concepts](programming.md) (including Functional Programming)
  * [Git](git.md)
  * [Agile & Project Management](agile.md)
+ * [Psychology, learning and life-hacks](learning.md)
  * [UX](ux.md)
  * [Other tech](tech.md)
 

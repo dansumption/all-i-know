@@ -6,6 +6,7 @@
  * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) Series of JavaScript books
  * [Simplified JavaScript Jargon](https://github.com/HugoGiraudel/SJSJ)
  * Eric Elliot's The Two Pillars of JavaScript: [Part 1: Prototypal Inheritance](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.2oaw14lc5) and [Part 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.6eui0zlbh)
+ * [Jani Hartikainen's Code Utopia JavaScript training blog](http://codeutopia.net/blog/)
 
 ## Testing
  * [Why I use Tape instead of Mocha and so should you](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
