@@ -30,6 +30,9 @@
  * [Animating with React, Redux and D3](http://swizec.com/blog/animating-with-react-redux-and-d3/swizec/6775) :new:
  * [React Ajax best practices](http://andrewhfarmer.com/react-ajax-best-practices/) :new:
  * [How we unit test React components using expect-jsx](https://blog.algolia.com/how-we-unit-test-react-components-using-expect-jsx/) :new:
+ * [React Storybook](https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2#.p061ebg0y) - for developing React components outside of your app. :new:
+ * [React Stampit](https://github.com/stampit-org/react-stamp) - for creating React components using composition. :new:
+ * [React performance engineering and debugging](http://benchling.engineering/performance-engineering-with-react/) :new:
 
 ## Angular ##
   * [Top 10 Angular learning resources March 2016](https://medium.com/@Mybridge/top-10-resources-to-learn-angularjs-from-march-2016-fb2a7cba940e#.28r0cai5k)
