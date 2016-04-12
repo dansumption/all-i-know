@@ -16,6 +16,7 @@
  * [EcmaScript 6 - new features and comparisons](http://es6-features.org/) :new:
 
 ## Async/Promises/Reactive Programming
+ * [Introduction to RxJS and Reactive Programming](https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs?series=introduction-to-reactive-programming)
  * [Promises cookbook](https://github.com/mattdesl/promise-cookbook)
 
 ## Functional JavaScript ##
@@ -36,6 +37,7 @@
 
 ## Angular ##
   * [Top 10 Angular learning resources March 2016](https://medium.com/@Mybridge/top-10-resources-to-learn-angularjs-from-march-2016-fb2a7cba940e#.28r0cai5k)
+  * [Managing state in Angular with Redux](http://blog.rangle.io/managing-state-redux-angular/) :new:
 
 ## 3D ##
  * [Building a 3D engine with JavaScript](http://www.sitepoint.com/building-3d-engine-javascript/) :new:
@@ -48,10 +50,8 @@
 
 ## Sort Me
 Priorities:
-https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs?series=introduction-to-reactive-programming
 https://egghead.io/lessons/javascript-redux-extracting-presentational-components-todo-todolist
 http://blog.jhades.org/angular-2-application-architecture-building-flux-like-apps-using-redux-and-immutable-js-js/ -
-http://blog.rangle.io/managing-state-redux-angular/
 https://blog.risingstack.com/what-is-nodejs-used-for-the-2015-nodejs-overview-report/?utm_source=RisingStack+Engineering&utm_campaign=91a9341041-RisingStack_Engineering_Welcome_Email9_11_2015&utm_medium=email&utm_term=0_02a6a69990-91a9341041-320078657
 https://blog.risingstack.com/asynchronous-javascript/?utm_source=RisingStack+Engineering&utm_campaign=91a9341041-RisingStack_Engineering_Welcome_Email9_11_2015&utm_medium=email&utm_term=0_02a6a69990-91a9341041-320078657
 https://blog.risingstack.com/why-you-should-start-using-microservices/?utm_source=RisingStack+Engineering&utm_campaign=91a9341041-RisingStack_Engineering_Welcome_Email9_11_2015&utm_medium=email&utm_term=0_02a6a69990-91a9341041-320078657
