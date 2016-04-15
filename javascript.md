@@ -12,12 +12,18 @@
 ## Testing
  * [Why I use Tape instead of Mocha and so should you](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
 
+## Node
+ * [How to become a better Node developer in 2016](https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/) :new:
+
 ## ES6/2015/Next
  * [EcmaScript 6 - new features and comparisons](http://es6-features.org/) :new:
+ * [WTF ES6](http://help.wtf/es6) :new:
+ * [Understanding EcmaScript 6](Understanding ECMAScript 6) - free eBook :new:
 
 ## Async/Promises/Reactive Programming
  * [Introduction to RxJS and Reactive Programming](https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs?series=introduction-to-reactive-programming)
  * [Promises cookbook](https://github.com/mattdesl/promise-cookbook)
+ * [The evolution of Asynchronous JavaScript](https://blog.risingstack.com/asynchronous-javascript/) :new:
 
 ## Functional JavaScript ##
  * [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504) :new:
@@ -54,9 +60,8 @@
 Priorities:
 
 https://blog.risingstack.com/what-is-nodejs-used-for-the-2015-nodejs-overview-report/?utm_source=RisingStack+Engineering&utm_campaign=91a9341041-RisingStack_Engineering_Welcome_Email9_11_2015&utm_medium=email&utm_term=0_02a6a69990-91a9341041-320078657
-https://blog.risingstack.com/asynchronous-javascript/?utm_source=RisingStack+Engineering&utm_campaign=91a9341041-RisingStack_Engineering_Welcome_Email9_11_2015&utm_medium=email&utm_term=0_02a6a69990-91a9341041-320078657
+
 https://blog.risingstack.com/why-you-should-start-using-microservices/?utm_source=RisingStack+Engineering&utm_campaign=91a9341041-RisingStack_Engineering_Welcome_Email9_11_2015&utm_medium=email&utm_term=0_02a6a69990-91a9341041-320078657
-https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/
 https://blog.risingstack.com/fundamental-node-js-design-patterns/
 
 http://rallycoding.com/blog/72408/testing-react-components
@@ -161,9 +166,6 @@ General JavaScript
  - Books in Dropbox
  - JavaScript Allonge: https://leanpub.com/javascriptallongesix/read
  - You Don't Know JS: https://github.com/getify/You-Dont-Know-JS (currently reading: parallel threading)
-ES6
- - http://help.wtf/es6
- - https://leanpub.com/understandinges6/read/
 See also on Evernote:
  - "Programming Languages and Libraries"
  - "JavaScript development code tools"
