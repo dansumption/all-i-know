@@ -44,6 +44,8 @@
  * [React Storybook](https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2#.p061ebg0y) - for developing React components outside of your app. :new:
  * [React Stampit](https://github.com/stampit-org/react-stamp) - for creating React components using composition. :new:
  * [React performance engineering and debugging](http://benchling.engineering/performance-engineering-with-react/) :new:
+ * [Testing React components](http://rallycoding.com/blog/72408/testing-react-components) :new:
+ * [The evolution of Flux frameworks](https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)
 
 ## Angular ##
   * [Top 10 Angular learning resources March 2016](https://medium.com/@Mybridge/top-10-resources-to-learn-angularjs-from-march-2016-fb2a7cba940e#.28r0cai5k)
@@ -62,13 +64,8 @@
 ## Sort Me
 Priorities:
 
-https://blog.risingstack.com/what-is-nodejs-used-for-the-2015-nodejs-overview-report/?utm_source=RisingStack+Engineering&utm_campaign=91a9341041-RisingStack_Engineering_Welcome_Email9_11_2015&utm_medium=email&utm_term=0_02a6a69990-91a9341041-320078657
 
-https://blog.risingstack.com/why-you-should-start-using-microservices/?utm_source=RisingStack+Engineering&utm_campaign=91a9341041-RisingStack_Engineering_Welcome_Email9_11_2015&utm_medium=email&utm_term=0_02a6a69990-91a9341041-320078657
-https://blog.risingstack.com/fundamental-node-js-design-patterns/
 
-http://rallycoding.com/blog/72408/testing-react-components
-https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31#.s52piqxit
  - http://www.2ality.com/2014/09/es6-modules-final.html?m=1
  - http://exploringjs.com/es6/ch_modules.html and sibling pages
  - https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.lkb2ufl2m
