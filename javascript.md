@@ -46,6 +46,7 @@
  * [React performance engineering and debugging](http://benchling.engineering/performance-engineering-with-react/) :new:
  * [Testing React components](http://rallycoding.com/blog/72408/testing-react-components) :new:
  * [The evolution of Flux frameworks](https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)
+ * [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.lsdhl3lng)
 
 ## Angular ##
   * [Top 10 Angular learning resources March 2016](https://medium.com/@Mybridge/top-10-resources-to-learn-angularjs-from-march-2016-fb2a7cba940e#.28r0cai5k)
