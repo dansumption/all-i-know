@@ -20,6 +20,9 @@
  * [WTF ES6](http://help.wtf/es6) :new:
  * [Understanding EcmaScript 6](Understanding ECMAScript 6) - free eBook :new:
 
+## Code style
+ * [Why you should enforce dangling commas for multiline statements](https://medium.com/@nikgraf/why-you-should-enforce-dangling-commas-for-multiline-statements-d034c98e36f8#.6abbywdhh)
+
 ## Async/Promises/Reactive Programming
  * [Introduction to RxJS and Reactive Programming](https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs?series=introduction-to-reactive-programming)
  * [Promises cookbook](https://github.com/mattdesl/promise-cookbook)
