@@ -11,6 +11,7 @@
 
 ## Testing
  * [Why I use Tape instead of Mocha and so should you](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
+ * [Best practices for Spies, Stubs and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js) :new:
 
 ## Node
  * [How to become a better Node developer in 2016](https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/) :new:
@@ -18,7 +19,9 @@
 ## ES6/2015/Next
  * [EcmaScript 6 - new features and comparisons](http://es6-features.org/) :new:
  * [WTF ES6](http://help.wtf/es6) :new:
- * [Understanding EcmaScript 6](Understanding ECMAScript 6) - free eBook :new:
+ * [Understanding EcmaScript 6](https://leanpub.com/understandinges6/read) - free eBook :new:
+ * [Exploring ES6](http://exploringjs.com/es6/) :new: free eBook
+ * [ECMAScript 6 modules - the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html)
 
 ## Code style
  * [Why you should enforce dangling commas for multiline statements](https://medium.com/@nikgraf/why-you-should-enforce-dangling-commas-for-multiline-statements-d034c98e36f8#.6abbywdhh)
@@ -47,6 +50,8 @@
  * [Testing React components](http://rallycoding.com/blog/72408/testing-react-components) :new:
  * [The evolution of Flux frameworks](https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)
  * [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.lsdhl3lng)
+ * [React components, elements and instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca) - Why are there three different terms to refer to something that is painted on screen? :new:
+ * [Mixins are dead, long live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750) :new:
 
 ## Angular ##
   * [Top 10 Angular learning resources March 2016](https://medium.com/@Mybridge/top-10-resources-to-learn-angularjs-from-march-2016-fb2a7cba940e#.28r0cai5k)
@@ -63,16 +68,7 @@
 
 
 ## Sort Me
-Priorities:
 
-
-
- - http://www.2ality.com/2014/09/es6-modules-final.html?m=1
- - http://exploringjs.com/es6/ch_modules.html and sibling pages
- - https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.lkb2ufl2m
- - http://www.infoq.com/presentations/Simple-Made-Easy
- - https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js
- - https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750#.p3xpumj7s
  - https://github.com/omcljs/om/
  - https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html
  - https://nodejs.org/en/blog/npm/managing-node-js-dependencies-with-shrinkwrap/
