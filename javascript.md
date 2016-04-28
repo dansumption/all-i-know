@@ -36,6 +36,7 @@
 ## Functional JavaScript ##
  * [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504) :new:
  * [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/2016/03/23/intro-to-immutable-js/) :new:
+ * [Seeking refuge from unsafe JavaScript](https://blog.plaid.com/sanctuary/) Explanation of [Sanctuary](http://sanctuary.js.org/) - a library for creating type-safe code with Ramda.
 
 ## React / Redux ##
  * [React cheat sheet](http://reactcheatsheet.com/)
