@@ -23,8 +23,10 @@
  * [Exploring ES6](http://exploringjs.com/es6/) :new: free eBook
  * [ECMAScript 6 modules - the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html)
 
-## Code style
+## Code style & Linting
  * [Why you should enforce dangling commas for multiline statements](https://medium.com/@nikgraf/why-you-should-enforce-dangling-commas-for-multiline-statements-d034c98e36f8#.6abbywdhh)
+ * [Automatic refactoring of JavaScript using CodeMods](https://medium.com/airbnb-engineering/turbocharged-javascript-refactoring-with-codemods-b0cae8b326b9)
+
 
 ## Async/Promises/Reactive Programming
  * [Introduction to RxJS and Reactive Programming](https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs?series=introduction-to-reactive-programming)
