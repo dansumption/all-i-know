@@ -7,7 +7,7 @@ I use it as a place to store articles which I intend to read - all of which are 
 The "I" of which I speak is me, [Dan Sumption](http://sumption.org).
 
 ## Topics
- * [JavaScript](javascript.md)
+ * [JavaScript](javascript.md) - nb. [React/Redux](react.md) is now separate.
  * [Ruby on Rails](ruby.md)
  * [General software development concepts](programming.md) (including Functional Programming)
  * [Git](git.md)

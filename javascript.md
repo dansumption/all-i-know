@@ -9,12 +9,17 @@
  * [Jani Hartikainen's Code Utopia JavaScript training blog](http://codeutopia.net/blog/) :new:
  * [Eric Elliot's training course](https://courses.ericelliottjs.com/)
 
+## Tools
+ * [Must see dev tools that put other dev tools to shame](https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.7pkdqqpy5)
+
 ## Testing
  * [Why I use Tape instead of Mocha and so should you](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
  * [Best practices for Spies, Stubs and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js) :new:
 
 ## Node
  * [How to become a better Node developer in 2016](https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/) :new:
+ * [Managing Node.js dependencies with Shrinkwrap](https://nodejs.org/en/blog/npm/managing-node-js-dependencies-with-shrinkwrap/) :new:
+ * [Node-red](http://nodered.org/) - for wiring together IoT devices, built on Node. :new:
 
 ## ES6/2015/Next
  * [EcmaScript 6 - new features and comparisons](http://es6-features.org/) :new:
@@ -29,6 +34,7 @@
 
 
 ## Async/Promises/Reactive Programming
+ * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) :new:
  * [Introduction to RxJS and Reactive Programming](https://egghead.io/lessons/rxjs-reactive-programming-what-is-rxjs?series=introduction-to-reactive-programming)
  * [Promises cookbook](https://github.com/mattdesl/promise-cookbook)
  * [The evolution of Asynchronous JavaScript](https://blog.risingstack.com/asynchronous-javascript/) :new:
@@ -39,22 +45,10 @@
  * [Seeking refuge from unsafe JavaScript](https://blog.plaid.com/sanctuary/) Explanation of [Sanctuary](http://sanctuary.js.org/) - a library for creating type-safe code with Ramda.
 
 ## React / Redux ##
- * [React cheat sheet](http://reactcheatsheet.com/)
- * [Levelling up with React](https://css-tricks.com/learning-react-router/) - Three part series covering React Router, Container Components and Redux. :new:
- * [Dan Abramov's getting started with Redux course](https://egghead.io/series/getting-started-with-redux) :new: - lesson21
- * [Server-side rendering with React, Node and Express](https://www.smashingmagazine.com/2016/03/server-side-rendering-react-node-express/) :new:
- * [Getting started with React, Redux and Immutable](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/) A test-driven tutorial :new:
- * [Animating with React, Redux and D3](http://swizec.com/blog/animating-with-react-redux-and-d3/swizec/6775) :new:
- * [React Ajax best practices](http://andrewhfarmer.com/react-ajax-best-practices/) :new:
- * [How we unit test React components using expect-jsx](https://blog.algolia.com/how-we-unit-test-react-components-using-expect-jsx/) :new:
- * [React Storybook](https://voice.kadira.io/introducing-react-storybook-ec27f28de1e2#.p061ebg0y) - for developing React components outside of your app. :new:
- * [React Stampit](https://github.com/stampit-org/react-stamp) - for creating React components using composition. :new:
- * [React performance engineering and debugging](http://benchling.engineering/performance-engineering-with-react/) :new:
- * [Testing React components](http://rallycoding.com/blog/72408/testing-react-components) :new:
- * [The evolution of Flux frameworks](https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)
- * [React Stateless Functional Components: Nine Wins You Might Have Overlooked](https://medium.com/@housecor/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc#.lsdhl3lng)
- * [React components, elements and instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca) - Why are there three different terms to refer to something that is painted on screen? :new:
- * [Mixins are dead, long live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750) :new:
+ * [See separate page on React/Redux](react.md)
+
+## Cycle ##
+ * [Cycle.js core libraries](https://github.com/cyclejs/core)
 
 ## Angular ##
   * [Top 10 Angular learning resources March 2016](https://medium.com/@Mybridge/top-10-resources-to-learn-angularjs-from-march-2016-fb2a7cba940e#.28r0cai5k)
@@ -71,21 +65,6 @@
 
 
 ## Sort Me
-
- - https://github.com/omcljs/om/
- - https://facebook.github.io/react/blog/2015/02/20/introducing-relay-and-graphql.html
- - https://nodejs.org/en/blog/npm/managing-node-js-dependencies-with-shrinkwrap/
- - https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
- - https://github.com/cyclejs/cycle-core
- - https://github.com/acdlite/flummox
- - https://github.com/goatslacker/alt
- - http://fluxible.io/
- - https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux/
- - https://github.com/rackt/redux
- - http://rackt.org/redux/docs/recipes/MigratingToRedux.html
- - http://rackt.org/redux/docs/introduction/PriorArt.html
- - https://github.com/sebmarkbage/ecmascript-rest-spread
- - http://reactjsnews.com/structuring-react-projects/
  - https://medium.com/@thejenniekim/never-import-react-from-react-again-thanks-to-webpack-s-provideplugin-69e7feb69e#.abqkhl231
  - https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.fd2lbj697
  - https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.19lps81ci
