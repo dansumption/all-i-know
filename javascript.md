@@ -16,6 +16,12 @@
  * [Why I use Tape instead of Mocha and so should you](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
  * [Best practices for Spies, Stubs and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js) :new:
 
+## Debugging
+ * [Four types of memory leaks in your JavaScript code and how to get rid of them](https://auth0.com/blog/2016/01/26/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/) :new:
+
+## Error-handing
+ * [A guide to proper error handling in JavaScript](http://www.sitepoint.com/proper-error-handling-javascript/) :new:
+ 
 ## Node
  * [How to become a better Node developer in 2016](https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/) :new:
  * [Managing Node.js dependencies with Shrinkwrap](https://nodejs.org/en/blog/npm/managing-node-js-dependencies-with-shrinkwrap/) :new:
