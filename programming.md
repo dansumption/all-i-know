@@ -9,3 +9,6 @@
 
 ## Presentations ##
  * [Simple made easy](http://www.infoq.com/presentations/Simple-Made-Easy) easiness leads to complexity, simplicity is better. :new:
+
+## Functional Programming ##7
+ * Read up on Investigate lenses & monoids :new:

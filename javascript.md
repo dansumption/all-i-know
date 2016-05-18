@@ -21,7 +21,7 @@
 
 ## Error-handing
  * [A guide to proper error handling in JavaScript](http://www.sitepoint.com/proper-error-handling-javascript/) :new:
- 
+
 ## Node
  * [How to become a better Node developer in 2016](https://blog.risingstack.com/how-to-become-a-better-node-js-developer-in-2016/) :new:
  * [Managing Node.js dependencies with Shrinkwrap](https://nodejs.org/en/blog/npm/managing-node-js-dependencies-with-shrinkwrap/) :new:
@@ -68,89 +68,8 @@
 ## Transpilers ##
  * [All JS Libraries should be authored in TypeScript](http://staltz.com/all-js-libraries-should-be-authored-in-typescript.html)
 
+## Webpack ##
+ * [WebPack Provide Plugin](https://medium.com/@thejenniekim/never-import-react-from-react-again-thanks-to-webpack-s-provideplugin-69e7feb69e#.abqkhl231)
 
-
-## Sort Me
- - https://medium.com/@thejenniekim/never-import-react-from-react-again-thanks-to-webpack-s-provideplugin-69e7feb69e#.abqkhl231
- - https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.fd2lbj697
- - https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.19lps81ci
- - https://github.com/slamdata/purescript-halogen
- - Countly: https://github.com/Countly/countly-server
- - http://nodered.org/
- - Swagger-ui
- - Webpack & React
- - Basic web audio
-- Flux?
-- Immutable?
- - Mongo? CouchDB? PouchDB?
- - Read up on WebAudio
- - Read up on Functional Programming
- - Investigate lenses & monoids
- - Finish React course on Udemy
-
- - Docker
- - Service Workers
-----------------------------------------------------------------------------
-Items from Node survey:
-Cassandra
-Koa
-Restify
-Hapi
-RabbitMQ/ZeroMQ/NSQ, etc
-Postgres
-Docker
-Codeship/Shippable/Jenkins
-HAProxy
-nginx
-MySQL
-Mongo
-Express
-Angular
-jQuery
-React
-Other (please specify)
-----------------------------------------------------------------------------
-
-React
- - Video tutorial on Udemy
- - "Gulp build of React.js project" on Evernote
- - Cheat sheet: http://reactcheatsheet.com/
- - Static site: http://jxnblk.com/writing/posts/static-site-generation-with-react-and-webpack/
-Angular
- - Books in Dropbox
- - Angular 2
-Mobile phone apps
- - PhoneGap books in Dropbox
- - Xamarin books in Dropbox
-TypeScript
- - http://www.codeproject.com/Articles/1033708/Learning-Typescript-and-building-a-google-map-with
-WebAudio
- - Book in Dropbox
-Functional programming
- - Terms: https://github.com/hemanth/functional-programming-jargon
- -Ramda.js
- -bacon.js
- -fantasy.io
- -pointfree-fantasy
- -data.either
-Build tools
- - Webpack (better browserify): http://webpack.github.io/
- -
-Platforms
- - Express (book in Dropbox)
-WebRTC
- - Book in Dropbox
-OOP
- - Stampit: https://github.com/stampit-org/stampit
-Debugging
- - Tracegl for capturing application stage  - https://remysharp.com/2013/05/13/tracegl-for-javascript-debugging
- - Theseus debugger - http://blog.brackets.io/2013/08/28/theseus-javascript-debugger-for-chrome-and-nodejs/?lang=en
- - Chrome Developer Tools Heap Profiler
-General JavaScript
- - Eric Elliot's motherlode of links: https://github.com/ericelliott/essential-javascript-links/blob/master/README.md
- - Books in Dropbox
- - JavaScript Allonge: https://leanpub.com/javascriptallongesix/read
- - You Don't Know JS: https://github.com/getify/You-Dont-Know-JS (currently reading: parallel threading)
-See also on Evernote:
- - "Programming Languages and Libraries"
- - "JavaScript development code tools"
+## TO DO ##
+ * Service Workers :new:
