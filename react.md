@@ -14,7 +14,10 @@
  * [React components, elements and instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca) - Why are there three different terms to refer to something that is painted on screen? :new:
  * [Mixins are dead, long live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750) :new:
 
-## Flux/Redux
+## Flux/Redux ##
+ * [A cartoon guide to Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.kdf7youa2)
+ * [A cartoon guide to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.uvifljds3)
+ * [Hot Reloading and Time-travel Debugging: what are they?](https://code-cartoons.com/hot-reloading-and-time-travel-debugging-what-are-they-3c8ed2812f35#.yu6682lmx)
  * [Dan Abramov's getting started with Redux course](https://egghead.io/series/getting-started-with-redux) :new: - lesson21
  * [The evolution of Flux frameworks](https://medium.com/@dan_abramov/the-evolution-of-flux-frameworks-6c16ad26bb31)
  * [Redux - prior art](http://redux.js.org/docs/introduction/PriorArt.html) - describes what Redux takes from Flux, Elm, etc. :new:
