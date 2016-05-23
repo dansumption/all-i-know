@@ -34,3 +34,4 @@
 * [React performance engineering and debugging](http://benchling.engineering/performance-engineering-with-react/) :new:
 * [Performance engineering with React](http://benchling.engineering/performance-engineering-with-react/) :new:
 * [Improve React performance with Babel](https://medium.com/doctolib-engineering/improve-react-performance-with-babel-16f1becfaa25#.4xkkv79oa) :new:
+* [Tips to Optimise Rendering of a Set of Elements in React](https://medium.com/@lavrton/how-to-optimise-rendering-of-a-set-of-elements-in-react-ad01f5b161ae#.upcndry65)
