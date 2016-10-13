@@ -12,9 +12,15 @@
 ## Tools
  * [Must see dev tools that put other dev tools to shame](https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.7pkdqqpy5)
 
-## Testing
+## Testing, Profiling, Security Scanning
  * [Why I use Tape instead of Mocha and so should you](https://medium.com/javascript-scene/why-i-use-tape-instead-of-mocha-so-should-you-6aa105d8eaf4)
  * [Best practices for Spies, Stubs and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js) :new:
+ * [NSP (Node Security Platform](https://github.com/nodesecurity/nsp) - see also [nodesecurity.io](https://nodesecurity.io/)
+ * [Greenkeeper](https://greenkeeper.io/) - tracks dependencies & tests for breakages.
+ 
+## Performance improvement
+ * [Google Closure Compiler](https://developers.google.com/closure/compiler/) - re-compiles JavaScript to more efficient JavaScript.
+ * [Source Map Explorer](https://www.npmjs.com/package/source-map-explorer) -  determines which file each byte in your minified JS came from.
 
 ## Debugging
  * [Four types of memory leaks in your JavaScript code and how to get rid of them](https://auth0.com/blog/2016/01/26/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/) :new:
