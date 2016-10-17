@@ -8,6 +8,7 @@
  * Eric Elliot's The Two Pillars of JavaScript: [Part 1: Prototypal Inheritance](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3#.2oaw14lc5) and [Part 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4#.6eui0zlbh)
  * [Jani Hartikainen's Code Utopia JavaScript training blog](http://codeutopia.net/blog/) :new:
  * [Eric Elliot's training course](https://courses.ericelliottjs.com/)
+ * [12 Books Every JavaScript Developer Should Read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3#.1ywm2k1zv)
 
 ## Tools
  * [Must see dev tools that put other dev tools to shame](https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.7pkdqqpy5)
