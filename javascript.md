@@ -21,6 +21,7 @@
 ## Performance improvement
  * [Google Closure Compiler](https://developers.google.com/closure/compiler/) - re-compiles JavaScript to more efficient JavaScript.
  * [Source Map Explorer](https://www.npmjs.com/package/source-map-explorer) -  determines which file each byte in your minified JS came from.
+ * [slice-js](https://www.npmjs.com/package/slice-js) - Programme slicing for JavaScript.
 
 ## Debugging
  * [Four types of memory leaks in your JavaScript code and how to get rid of them](https://auth0.com/blog/2016/01/26/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/) :new:
