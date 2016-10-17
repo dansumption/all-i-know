@@ -17,6 +17,8 @@
  * [Best practices for Spies, Stubs and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js) :new:
  * [NSP (Node Security Platform](https://github.com/nodesecurity/nsp) - see also [nodesecurity.io](https://nodesecurity.io/)
  * [Greenkeeper](https://greenkeeper.io/) - tracks dependencies & tests for breakages.
+ * [Play Safely in Sandboxed iframes](https://www.html5rocks.com/en/tutorials/security/sandboxed-iframes/)
+ * [Channel Messaging API](https://developer.mozilla.org/en-US/docs/Web/API/Channel_Messaging_API)
  
 ## Performance improvement
  * [Google Closure Compiler](https://developers.google.com/closure/compiler/) - re-compiles JavaScript to more efficient JavaScript.
@@ -67,6 +69,8 @@
   * [Top 10 Angular learning resources March 2016](https://medium.com/@Mybridge/top-10-resources-to-learn-angularjs-from-march-2016-fb2a7cba940e#.28r0cai5k)
   * [Managing state in Angular with Redux](http://blog.rangle.io/managing-state-redux-angular/) :new:
   * [Angular 2 Application Architecture - Building Flux Apps with Redux and Immutable.js](http://blog.jhades.org/angular-2-application-architecture-building-flux-like-apps-using-redux-and-immutable-js-js/)
+  * [Lazy-loading Angular with Webpack](http://michalzalecki.com/lazy-load-angularjs-with-webpack/)
+  * [How to distribute your Angular JS module](https://medium.com/@kentcdodds/how-to-distribute-your-angularjs-module-e04d4dd58ddc#.99zwgqz1p)
 
 ## 3D ##
  * [Building a 3D engine with JavaScript](http://www.sitepoint.com/building-3d-engine-javascript/) :new:
