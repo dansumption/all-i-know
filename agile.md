@@ -9,3 +9,4 @@
 
 ## Product Management
  * [The Minimum Viable Product Manager](https://medium.com/swlh/mvpm-minimum-viable-product-manager-e1aeb8dd421#.6uxzh2chf)
+ * [Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework) - a framework for making collaborative decisions in an open-souce way. :new:
