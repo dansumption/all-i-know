@@ -11,6 +11,3 @@
 
 ## Internet of Things ##
  * [Node-red](http://nodered.org/)
-
-## Microservices
- * [Engineering Practices for Microservices](https://www.oreilly.com/ideas/engineering-practices-for-microservices) (O'Reilly course)

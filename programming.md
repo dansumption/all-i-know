@@ -2,6 +2,10 @@
 
 ## Interesting Reading
  * [Thoughtworks](https://www.thoughtworks.com/insights)
+ 
+## Engineering
+ * [Ten Modern Software Engineering Mistakes](https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8#.4lavzyldt)
+ * [Engineering Practices for Microservices](https://www.oreilly.com/ideas/engineering-practices-for-microservices) (O'Reilly course)
 
 ## Documentation ##
  * [Architectural Decision Records](http://product.reverb.com/2015/05/09/documenting-architecture-decisions-the-reverb-way/)
