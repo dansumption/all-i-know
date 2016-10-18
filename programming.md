@@ -18,7 +18,11 @@
  * [Simple made easy](http://www.infoq.com/presentations/Simple-Made-Easy) easiness leads to complexity, simplicity is better. :new:
 
 ## Functional Programming ##7
+ * [PureScript by Example](https://leanpub.com/purescript)
  * Read up on Investigate lenses & monoids :new:
+ 
+## Debugging
+ * [Zap](https://github.com/uber-go/zap) - Uber's library for cross-platform logging.
 
 ## Unsorted Functional Programming :new: ##
  * [Functional Programming, by Scott Sauyet](http://scott.sauyet.com/Javascript/Talk/2014/01/FuncProgTalk/)
