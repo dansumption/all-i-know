@@ -9,6 +9,7 @@
  * [Jani Hartikainen's Code Utopia JavaScript training blog](http://codeutopia.net/blog/) :new:
  * [Eric Elliot's training course](https://courses.ericelliottjs.com/)
  * [12 Books Every JavaScript Developer Should Read](https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3#.1ywm2k1zv)
+ * [How to be a compiler - make a compiler in JavaScript](https://medium.com/@kosamari/how-to-be-a-compiler-make-a-compiler-with-javascript-4a8a13d473b4#.qrkyt2hiw) :new:
 
 ## Tools
  * [Must see dev tools that put other dev tools to shame](https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.7pkdqqpy5)
@@ -59,6 +60,7 @@
  * [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504) :new:
  * [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/2016/03/23/intro-to-immutable-js/) :new:
  * [Seeking refuge from unsafe JavaScript](https://blog.plaid.com/sanctuary/) Explanation of [Sanctuary](http://sanctuary.js.org/) - a library for creating type-safe code with Ramda.
+ * [Advanced reduce, flatmap & reduce right](https://egghead.io/lessons/javascript-advanced-reduce-flatten-flatmap-and-reduceright) Egghead pro lesson :new:
 
 ## React / Redux ##
  * [See separate page on React/Redux](react.md)
@@ -73,7 +75,8 @@
   * [Lazy-loading Angular with Webpack](http://michalzalecki.com/lazy-load-angularjs-with-webpack/)
   * [How to distribute your Angular JS module](https://medium.com/@kentcdodds/how-to-distribute-your-angularjs-module-e04d4dd58ddc#.99zwgqz1p)
 
-## 3D ##
+## Graphics & 3D ##
+ * [Maker.js](http://microsoft.github.io/maker.js/) modular line drawings for CNC and laser cutters.
  * [Building a 3D engine with JavaScript](http://www.sitepoint.com/building-3d-engine-javascript/) :new:
  * [Vizcities](https://github.com/vizicities/vizicities) 3D city and data visualisation platform :new:
 
