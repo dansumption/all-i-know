@@ -14,6 +14,9 @@
  * [React components, elements and instances](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca) - Why are there three different terms to refer to something that is painted on screen? :new:
  * [Mixins are dead, long live Composition](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750) :new:
 
+## Project admin ##
+ * [Folder structure for React/Redux projects](https://medium.freecodecamp.com/scaling-your-redux-app-with-ducks-6115955638be#.f4qd8qlcm)
+
 ## Flux/Redux ##
  * [A cartoon guide to Flux](https://code-cartoons.com/a-cartoon-guide-to-flux-6157355ab207#.kdf7youa2)
  * [A cartoon guide to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6#.uvifljds3)
